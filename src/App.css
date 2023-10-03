@@ -1,0 +1,6 @@
+.categoriesList{
+    display: flex;
+}
+.categoriesTitle{
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.projects_wrapper{
+    width: 100%;
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+    
+    
+} 
+.projects_wrapper img{
+    width: 250px;
+    height: 150px;
+}
